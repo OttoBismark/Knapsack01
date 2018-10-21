@@ -13,4 +13,7 @@ Maximise :  <a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{i=1}^{n}&s
 
 
 
-Subject to : 
+Subject to : <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\sum_{i=1}^{n}&space;v_iw_i&space;<&space;W" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\sum_{i=1}^{n}&space;v_iw_i&space;<&space;W" title="\sum_{i=1}^{n} v_iw_i < W" /></a>
+
+
+
