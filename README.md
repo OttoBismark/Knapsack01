@@ -7,7 +7,7 @@ The knapsack problem or rucksack problem is a problem in combinatorial optimizat
 The problem often arises in resource allocation where there are financial constraints and is studied in fields such as combinatorics, computer science, complexity theory, cryptography, applied mathematics, and daily fantasy sports.
 
 ### Definition
-> The most common problem being solved is the 0-1 knapsack problem, which restricts the number <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;x_i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;x_i" title="x_i" /></a> of copies of each kind of item to zero or one. Given a set of n items numbered from 1 up to n, each with a weight w_i and a value v_i, along with a maximum weight capacity W: 
+> The most common problem being solved is the 0-1 knapsack problem, which restricts the number <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;x_i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;x_i" title="x_i" /></a> of copies of each kind of item to zero or one. Given a set of n items numbered from 1 up to n, each with a weight <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;w_i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;w_i" title="w_i" /></a> and a value v_i, along with a maximum weight capacity W: 
 
 Maximise :  <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\sum_{i=1}^{n}&space;v_iw_i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\sum_{i=1}^{n}&space;v_iw_i" title="\sum_{i=1}^{n} v_iw_i" /></a>
 
