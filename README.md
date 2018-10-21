@@ -8,3 +8,7 @@ The problem often arises in resource allocation where there are financial constr
 
 ### Definition
 > The most common problem being solved is the 0-1 knapsack problem, which restricts the number x_i of copies of each kind of item to zero or one. Given a set of n items numbered from 1 up to n, each with a weight w_i and a value v_i, along with a maximum weight capacity W: 
+
+Maximise : \sum_{i=1}^{n} v_iw_i
+
+Subject to : 
